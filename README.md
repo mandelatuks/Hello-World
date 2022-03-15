@@ -6,8 +6,7 @@
 A Hello Microverse
 
 ## Built With
-- Major languages HTML
-- Frameworks CSS
+- Major languages HTML, CSS
 
 [Live Demo Link](https://github.com/mandelatuks/Hello-World)
 
