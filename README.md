@@ -1,56 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+ Hello Microverse Project
 
 > Description the project.
-
+A Hello Microverse
 
 ## Built With
+- Major languages HTML
+- Frameworks CSS
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://github.com/mandelatuks/Hello-World)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+Web Browser
+Code Editor
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+~~~bash
+git clone https://github.com/mandelatuks/Hello-World
+cd hello-world
+~~~
 
 
 
-## Authors
 
-👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mandelatuks](https://github.com/mandelatuks)
+- Twitter: [@MandelaTm1](https://twitter.com/MandelaTm1)
+- LinkedIn: [Mandela Tumukunde](https://linkedin.com/in/Mandela Tumukunde)
+
+
 
 ## 🤝 Contributing
 
